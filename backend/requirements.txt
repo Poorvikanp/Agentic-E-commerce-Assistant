@@ -1,0 +1,11 @@
+langchain
+langchain-groq
+langchain-community
+langgraph
+faiss-cpu
+sentence-transformers
+langsmith
+pydantic
+fastapi
+uvicorn
+python-dotenv
