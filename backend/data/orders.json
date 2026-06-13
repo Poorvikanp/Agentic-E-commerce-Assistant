@@ -1,0 +1,56 @@
+{
+  "ORD-1001": {
+    "order_id": "ORD-1001",
+    "customer_name": "Priya Sharma",
+    "items": [
+      {"product_id": "P001", "name": "CloudStep Running Shoes", "qty": 1, "price": 2999}
+    ],
+    "total": 2999,
+    "status": "delivered",
+    "placed_on": "2025-05-28",
+    "delivered_on": "2025-06-01",
+    "tracking_id": "BLR4892012",
+    "address": "Bangalore, KA"
+  },
+  "ORD-1002": {
+    "order_id": "ORD-1002",
+    "customer_name": "Arjun Mehta",
+    "items": [
+      {"product_id": "P006", "name": "ZenYoga Mat 6mm", "qty": 1, "price": 1499},
+      {"product_id": "P002", "name": "HydroFlask Water Bottle", "qty": 2, "price": 1798}
+    ],
+    "total": 3297,
+    "status": "out_for_delivery",
+    "placed_on": "2025-06-10",
+    "delivered_on": null,
+    "tracking_id": "MUM7723401",
+    "address": "Mumbai, MH"
+  },
+  "ORD-1003": {
+    "order_id": "ORD-1003",
+    "customer_name": "Sneha Rao",
+    "items": [
+      {"product_id": "P008", "name": "TrailBlazer Hiking Backpack 30L", "qty": 1, "price": 3499}
+    ],
+    "total": 3499,
+    "status": "processing",
+    "placed_on": "2025-06-12",
+    "delivered_on": null,
+    "tracking_id": null,
+    "address": "Mysuru, KA"
+  },
+  "ORD-1004": {
+    "order_id": "ORD-1004",
+    "customer_name": "Rahul Nair",
+    "items": [
+      {"product_id": "P003", "name": "ProGrip Resistance Bands Set", "qty": 1, "price": 599},
+      {"product_id": "P005", "name": "FoamRoller Pro 60cm", "qty": 1, "price": 1299}
+    ],
+    "total": 1898,
+    "status": "cancelled",
+    "placed_on": "2025-06-05",
+    "delivered_on": null,
+    "tracking_id": null,
+    "address": "Chennai, TN"
+  }
+}

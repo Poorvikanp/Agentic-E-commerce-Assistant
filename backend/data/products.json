@@ -1,0 +1,82 @@
+[
+  {
+    "id": "P001",
+    "name": "CloudStep Running Shoes",
+    "category": "footwear",
+    "price": 2999,
+    "description": "Lightweight running shoes with memory foam insole and breathable mesh upper. Great for daily runs and gym workouts.",
+    "tags": ["running", "sports", "lightweight", "gym"],
+    "stock": 45,
+    "rating": 4.5
+  },
+  {
+    "id": "P002",
+    "name": "HydroFlask Water Bottle 1L",
+    "category": "accessories",
+    "price": 899,
+    "description": "Insulated stainless steel water bottle. Keeps water cold for 24 hours and hot for 12 hours. BPA-free.",
+    "tags": ["hydration", "gym", "travel", "insulated"],
+    "stock": 120,
+    "rating": 4.8
+  },
+  {
+    "id": "P003",
+    "name": "ProGrip Resistance Bands Set",
+    "category": "fitness",
+    "price": 599,
+    "description": "Set of 5 resistance bands in varying strengths. Perfect for home workouts, stretching, and physiotherapy.",
+    "tags": ["workout", "home gym", "bands", "strength"],
+    "stock": 80,
+    "rating": 4.3
+  },
+  {
+    "id": "P004",
+    "name": "AeroKnit Sports T-Shirt",
+    "category": "apparel",
+    "price": 799,
+    "description": "Moisture-wicking sports t-shirt with 4-way stretch fabric. Anti-odor technology. Available in 6 colors.",
+    "tags": ["running", "sports", "apparel", "gym"],
+    "stock": 200,
+    "rating": 4.6
+  },
+  {
+    "id": "P005",
+    "name": "FoamRoller Pro 60cm",
+    "category": "recovery",
+    "price": 1299,
+    "description": "High-density foam roller for muscle recovery and deep tissue massage. Textured surface for trigger point relief.",
+    "tags": ["recovery", "massage", "physio", "post-workout"],
+    "stock": 35,
+    "rating": 4.7
+  },
+  {
+    "id": "P006",
+    "name": "ZenYoga Mat 6mm",
+    "category": "fitness",
+    "price": 1499,
+    "description": "Eco-friendly TPE yoga mat with alignment lines. Non-slip surface, carry strap included.",
+    "tags": ["yoga", "mat", "eco", "fitness"],
+    "stock": 60,
+    "rating": 4.4
+  },
+  {
+    "id": "P007",
+    "name": "PowerPulse Protein Shaker",
+    "category": "accessories",
+    "price": 449,
+    "description": "Leak-proof protein shaker with mixing ball. 700ml capacity. Dishwasher safe.",
+    "tags": ["shaker", "protein", "gym", "nutrition"],
+    "stock": 150,
+    "rating": 4.2
+  },
+  {
+    "id": "P008",
+    "name": "TrailBlazer Hiking Backpack 30L",
+    "category": "bags",
+    "price": 3499,
+    "description": "Waterproof 30L hiking backpack with ergonomic back support, hydration sleeve, and 8 compartments.",
+    "tags": ["hiking", "outdoor", "backpack", "travel"],
+    "stock": 25,
+    "rating": 4.9
+  }
+]
