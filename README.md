@@ -141,6 +141,4 @@ shopmind/
         └── CitationBadge.jsx
 ```
 
-## Author
 
-**Poorvika N P** — [GitHub](https://github.com/Poorvikanp)
