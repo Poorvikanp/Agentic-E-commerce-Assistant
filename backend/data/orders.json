@@ -53,4 +53,18 @@
     "tracking_id": null,
     "address": "Chennai, TN"
   }
+  "ORD-1005": {
+    "order_id": "ORD-1005",
+    "customer_name": "Thoju",
+    "items": [
+      {"product_id": "P008", "name": "Extics shampoo", "qty": 1, "price": 699},
+      {"product_id": "P009", "name": "Rain coat", "qty": 1, "price": 1299}
+    ],
+    "total": 1998,
+    "status": "out_for_delivery",
+    "placed_on": "2025-08-08",
+    "delivered_on": null,
+    "tracking_id": null,
+    "address": "Thirthahalli, KA"
+  }
 }
