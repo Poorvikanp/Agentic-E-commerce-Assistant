@@ -101,9 +101,6 @@ Ran a 20-case LangSmith evaluation suite testing tool-routing correctness across
 **Result: 90% tool-routing accuracy (18/20)**
 <img width="1360" height="583" alt="Screenshot (522)" src="https://github.com/user-attachments/assets/16339dbe-7f16-4a83-84fc-cd0885a31ae9" />
 
-![LangSmith Eval Results](assets/langsmith_eval.png)
-![LangSmith Traces](assets/langsmith_traces.png)
-
 Every agent run is traced end-to-end — full visibility into which tool was called, latency per step, and the final structured output.
 
 ## Stack
