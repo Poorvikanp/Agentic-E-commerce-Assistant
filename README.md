@@ -147,25 +147,4 @@ shopmind/
 
 
 
-User Goal
-   ↓
-Supervisor Agent (routes the conversation)
-   ↓
-   ├── Product Discovery Agent
-   │     - Searches catalog (FAISS)
-   │     - Reasons about which products best fit intent
-   │     - Can chain: search → compare → recommend
-   │
-   ├── Order Resolution Agent
-   │     - Checks order status
-   │     - Reasons about whether issue needs escalation
-   │     - Can chain: check status → check refund eligibility → check policy
-   │
-   ├── Policy & Support Agent
-   │     - Retrieves policy info
-   │     - Reasons about edge cases (e.g. "is this item returnable?")
-   │
-   └── Upsell Agent
-         - Recommends bundles
-         - Reasons about cart value, AOV optimization
 
